@@ -3,8 +3,7 @@ theme: jekyll-theme-cayman
 title: [FITS Matching Algorithm]
 description: [The details about FITS and FITS+ algorithms for camera fingerprints matching]
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
 
 
-form the function(5), the **hat_{K}** is used to
