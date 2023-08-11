@@ -4,3 +4,6 @@ plugins:
 
 title: [FITS Matching Algorithm]
 description: [The details about FITS and FITS+ algorithms for camera fingerprints matching]
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
